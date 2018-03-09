@@ -3,13 +3,13 @@
 - vue-router  
   mode: history
 
-- ESLint
+- ESLint  
   Standard
 
-- unit test
+- unit test  
   Karma and Mocha
 
-- axios http request
+- axios http request  
   get and post
 
 - element-ui
